@@ -1,16 +1,13 @@
-## Hi there 👋
+ABOUT ME👋
 
-<!--
-**Juanrmtz001/Juanrmtz001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+School:
+  -UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+  -Tic-Tac-Toe using Java Swing
+  -Website for Gutter Company
+    
+Goals and Objective:
+  -Create impressive and innovative projects
+  -Get a bachelor's degree
+  -Create a spring-boot project by end of 2024
